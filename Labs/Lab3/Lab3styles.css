@@ -1,0 +1,40 @@
+body {
+  background-color: lightblue;
+}
+
+p {
+  font-size: 40px;
+}
+
+.firstClass {
+  font-style: italic;
+}
+
+#firstID{
+  font-weight: bold;
+}
+
+.greenText{
+  color: green;
+  text-align: center;
+}
+
+.orangeText{
+  color: orange;
+}
+
+.purpleText{
+  color: magenta;
+  text-align: right;
+}
+
+.redSuper{
+  color: red;
+  vertical-align: super;
+}
+
+.yellowCaps{
+  color: yellow;
+  font-style: italic;
+  text-transform: uppercase;
+}
